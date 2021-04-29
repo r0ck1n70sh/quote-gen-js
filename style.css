@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+button {
+    width: 10%;
+    margin: 5%;
+    background-color: teal;
+    padding: 1%;
+}
+
+.div-quote {
+    margin: auto;
+    width: 50%;
+    background-color: yellow;
+    padding: 5%;
+}
+
+.p-auth {
+    text-align: right;
+}
